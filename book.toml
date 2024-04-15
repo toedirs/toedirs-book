@@ -5,3 +5,6 @@ multilingual = false
 src = "src"
 title = "Toedi Documentation"
 
+[output.html]
+git-repository-url = "https://github.com/panaetius/toedirs-book"
+edit-url-template = "https://github.com/panaetius/toedirs-book/edit/main/{path}"
