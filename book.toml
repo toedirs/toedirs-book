@@ -1,0 +1,6 @@
+[book]
+authors = ["Ralf Grubenmann"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Toedi Documentation"
