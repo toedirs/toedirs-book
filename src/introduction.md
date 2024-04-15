@@ -1,6 +1,6 @@
 # Introduction
 
-Toedi is a self-hosted fitness tracking app. It is mostly aimed at endurance 
+[Toedi](https://github.com/panaetius/toedirs) is a self-hosted fitness tracking app. It is mostly aimed at endurance 
 training, though should be useful for any kind of training. It can import 
 workout data, show you past workouts, show metrics ant statistics for your 
 training and comes with a powerful workout planner.
